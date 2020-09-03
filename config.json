@@ -1,0 +1,17 @@
+{
+  "client_id": "728202276526882846",
+  "details": "DETAILS",
+  "state": "STATE",
+  "end": null,
+  "start": "$real",
+  "spectate_secret": null,
+  "join_secret": null,
+  "assets": {
+    "large_icon": null,
+    "large_icon_text": null,
+    "small_icon": null,
+    "small_icon_text": null,
+    "show_spectate_button": false,
+    "show_join_button": false
+  }
+}
